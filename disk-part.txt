@@ -60,3 +60,7 @@ Remember to change W in the command with a letter you want that isn't in use by 
 Again, using this guide, remember to take your time and carefully select the drive you want to repair. If you have multiple external drives connected to your computer, it's a good idea to temporary disconnect them before proceeding to reduce the chances of erasing the wrong drive.
 
 Keep in mind that while there is many other tools to format a drive, DiskPart is likely to be your best choice when you're dealing with data corruption, drive inaccurately showing the storage capacity, and other serious problems.
+
+
+
+Source & Credit: www.windowscentral.com
