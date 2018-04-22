@@ -63,4 +63,4 @@ Keep in mind that while there is many other tools to format a drive, DiskPart is
 
 
 
-Source & Credit: www.windowscentral.com
+Source & Credit: www.windowscentral.com.
