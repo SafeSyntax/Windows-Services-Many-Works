@@ -1,0 +1,1 @@
+View local services > windows update > stop and startup service > disable > apply > OK..
